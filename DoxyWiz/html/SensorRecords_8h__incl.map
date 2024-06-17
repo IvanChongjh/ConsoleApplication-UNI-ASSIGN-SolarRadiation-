@@ -1,0 +1,11 @@
+<map id="C:/Users/ICJH/Desktop/ICT0362330 PT&#45;MUR BIT &#45; 001/SensorRecords.h" name="C:/Users/ICJH/Desktop/ICT0362330 PT&#45;MUR BIT &#45; 001/SensorRecords.h">
+<area shape="rect" id="node1" title=" " alt="" coords="272,5,443,61"/>
+<area shape="rect" id="node2" href="$Time_8h.html" title=" " alt="" coords="284,109,345,136"/>
+<area shape="rect" id="node3" title=" " alt="" coords="252,184,324,211"/>
+<area shape="rect" id="node4" title=" " alt="" coords="399,184,454,211"/>
+<area shape="rect" id="node5" href="$Date_8h.html" title=" " alt="" coords="370,109,430,136"/>
+<area shape="rect" id="node6" href="$Temperature_8h.html" title=" " alt="" coords="30,109,135,136"/>
+<area shape="rect" id="node7" href="$SolarRadiation_8h.html" title=" " alt="" coords="455,109,572,136"/>
+<area shape="rect" id="node8" href="$WindSpeed_8h.html" title=" " alt="" coords="159,109,259,136"/>
+<area shape="rect" id="node9" href="$Vector_8h.html" title=" " alt="" coords="647,109,718,136"/>
+</map>

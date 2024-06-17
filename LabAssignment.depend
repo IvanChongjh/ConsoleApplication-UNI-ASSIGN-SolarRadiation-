@@ -1,0 +1,740 @@
+# depslib dependency file v1.0
+1687337498 source:c:\users\icjh\desktop\labassignment\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"Date.h"
+	"Time.h"
+	"Vector.h"
+	<sstream>
+	<cmath>
+
+1687229797 source:c:\users\icjh\desktop\labassignment\testvector.cpp
+	<iostream>
+	"Vector.h"
+	<string>
+
+1687235289 c:\users\icjh\desktop\labassignment\vector.h
+
+1687327636 source:c:\users\icjh\desktop\labassignment\date.cpp
+	"Date.h"
+
+1687322825 c:\users\icjh\desktop\labassignment\date.h
+	<iostream>
+	<string>
+
+1687230115 source:c:\users\icjh\desktop\labassignment\testtime.cpp
+	<iostream>
+	"time.h"
+	<string>
+
+1687230115 c:\users\icjh\desktop\labassignment\time.h
+	<iostream>
+	<string>
+
+1687230115 source:c:\users\icjh\desktop\labassignment\time.cpp
+	"Time.h"
+
+1687734567 source:c:\users\icjh\desktop\mainassignment\time.cpp
+	"Time.h"
+
+1687734337 c:\users\icjh\desktop\mainassignment\time.h
+	<iostream>
+	<string>
+
+1687734706 source:c:\users\icjh\desktop\mainassignment\date.cpp
+	"Date.h"
+
+1687734671 c:\users\icjh\desktop\mainassignment\date.h
+	<iostream>
+	<string>
+
+1687741340 source:c:\users\icjh\desktop\mainassignment\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"Date.h"
+	"Time.h"
+	"Vector.h"
+	<sstream>
+	<cmath>
+	<iomanip>
+
+1687765971 c:\users\icjh\desktop\mainassignment\vector.h
+
+1687765588 source:c:\users\icjh\desktop\mainassignment\testvector.cpp
+	<iostream>
+	"Vector.h"
+	<string>
+
+1687733402 source:c:\users\icjh\desktop\mainassignment\testdate.cpp
+	"Date.h"
+	<iostream>
+
+1687734474 source:c:\users\icjh\desktop\mainassignment\testtime.cpp
+	<iostream>
+	"time.h"
+	<string>
+
+1687768301 source:c:\users\icjh\desktop\mainassignment - copy\testvector.cpp
+	<iostream>
+	"Vector.h"
+	<string>
+
+1687769026 c:\users\icjh\desktop\mainassignment - copy\vector.h
+
+1687772046 source:c:\users\icjh\desktop\ict0362330 pt-mur bit\testvector.cpp
+	<iostream>
+	"Vector.h"
+	<string>
+
+1687772107 c:\users\icjh\desktop\ict0362330 pt-mur bit\vector.h
+
+1687734706 source:c:\users\icjh\desktop\ict0362330 pt-mur bit\date.cpp
+	"Date.h"
+
+1687734671 c:\users\icjh\desktop\ict0362330 pt-mur bit\date.h
+	<iostream>
+	<string>
+
+1687741340 source:c:\users\icjh\desktop\ict0362330 pt-mur bit\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"Date.h"
+	"Time.h"
+	"Vector.h"
+	<sstream>
+	<cmath>
+	<iomanip>
+
+1687734337 c:\users\icjh\desktop\ict0362330 pt-mur bit\time.h
+	<iostream>
+	<string>
+
+1687734567 source:c:\users\icjh\desktop\ict0362330 pt-mur bit\time.cpp
+	"Time.h"
+
+1687916623 source:c:\users\icjh\desktop\ict0362330 pt-mur bit - copy\solarradiation.cpp
+	"SolarRadiation.h"
+
+1687916623 c:\users\icjh\desktop\ict0362330 pt-mur bit - copy\solarradiation.h
+	<iostream>
+	<string>
+
+1687915729 source:c:\users\icjh\desktop\ict0362330 pt-mur bit - copy\testsolarradiation.cpp
+	<iostream>
+	"SolarRadiation.h"
+	<string>
+
+1687734706 source:c:\users\icjh\desktop\ict0362330 pt-mur bit - copy\date.cpp
+	"Date.h"
+
+1687734671 c:\users\icjh\desktop\ict0362330 pt-mur bit - copy\date.h
+	<iostream>
+	<string>
+
+1687915728 source:c:\users\icjh\desktop\ict0362330 pt-mur bit - copy\temperature.cpp
+	"Temperature.h"
+
+1687915478 c:\users\icjh\desktop\ict0362330 pt-mur bit - copy\temperature.h
+	<iostream>
+
+1687915478 source:c:\users\icjh\desktop\ict0362330 pt-mur bit - copy\windspeed.cpp
+	"WindSpeed.h"
+
+1687915478 c:\users\icjh\desktop\ict0362330 pt-mur bit - copy\windspeed.h
+	<iostream>
+
+1687858273 source:c:\users\icjh\desktop\ict0362330 pt-mur bit - copy\time.cpp
+	"Time.h"
+
+1687858273 c:\users\icjh\desktop\ict0362330 pt-mur bit - copy\time.h
+	<iostream>
+	<string>
+
+1687916523 source:c:\users\icjh\desktop\ict0362330 pt-mur bit - copy\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"Date.h"
+	"Time.h"
+	"WindSpeed.h"
+	"Temperature.h"
+	"SolarRadiation.h"
+	"Vector.h"
+	<sstream>
+	<cmath>
+	<iomanip>
+
+1687772107 c:\users\icjh\desktop\ict0362330 pt-mur bit - copy\vector.h
+
+1687734706 source:c:\users\icjh\desktop\ict0362330 pt-mur bit - 001\date.cpp
+	"Date.h"
+
+1687947707 c:\users\icjh\desktop\ict0362330 pt-mur bit - 001\date.h
+	<iostream>
+	<string>
+
+1687960452 source:c:\users\icjh\desktop\ict0362330 pt-mur bit - 001\solarradiation.cpp
+	"SolarRadiation.h"
+
+1687960452 c:\users\icjh\desktop\ict0362330 pt-mur bit - 001\solarradiation.h
+	<iostream>
+	<string>
+
+1687915728 source:c:\users\icjh\desktop\ict0362330 pt-mur bit - 001\temperature.cpp
+	"Temperature.h"
+
+1687947572 c:\users\icjh\desktop\ict0362330 pt-mur bit - 001\temperature.h
+	<iostream>
+
+1687858273 source:c:\users\icjh\desktop\ict0362330 pt-mur bit - 001\time.cpp
+	"Time.h"
+
+1687947632 c:\users\icjh\desktop\ict0362330 pt-mur bit - 001\time.h
+	<iostream>
+	<string>
+
+1687960936 source:c:\users\icjh\desktop\ict0362330 pt-mur bit - 001\windspeed.cpp
+	"WindSpeed.h"
+
+1687947572 c:\users\icjh\desktop\ict0362330 pt-mur bit - 001\windspeed.h
+	<iostream>
+
+1687924413 source:c:\users\icjh\desktop\ict0362330 pt-mur bit - 001\testsensorrecords.cpp
+	<iostream>
+	"SolarRadiation.h"
+	"Time.h"
+	"Temperature.h"
+	"date.h"
+	"WindSpeed.h"
+	"SensorRecords.h"
+	"Vector.h"
+	<string>
+
+1687960452 c:\users\icjh\desktop\ict0362330 pt-mur bit - 001\sensorrecords.h
+	"Time.h"
+	"Date.h"
+	"Temperature.h"
+	"SolarRadiation.h"
+	"WindSpeed.h"
+	"Vector.h"
+	<iostream>
+	<string>
+
+1687772107 c:\users\icjh\desktop\ict0362330 pt-mur bit - 001\vector.h
+
+1687924349 source:c:\users\icjh\desktop\ict0362330 pt-mur bit - 001\sensorrecords.cpp
+	"SensorRecords.h"
+
+1687960776 source:c:\users\icjh\desktop\ict0362330 pt-mur bit - 001\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"Date.h"
+	"Time.h"
+	"WindSpeed.h"
+	"Temperature.h"
+	"SolarRadiation.h"
+	"SensorRecords.h"
+	"Vector.h"
+	<sstream>
+	<cmath>
+	<iomanip>
+
+1687941822 source:c:\users\icjh\desktop\ict0362330 pt-mur bit - 001\menu.cpp
+	"Menu.h"
+	"Date.h"
+
+1687858273 source:c:\users\icjh\desktop\ict0362330 pt-mur bit - 001\testmain.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"Date.h"
+	"Time.h"
+	"Vector.h"
+	<sstream>
+	<cmath>
+	<iomanip>
+
+1687941777 c:\users\icjh\desktop\ict0362330 pt-mur bit - 001\menu.h
+	"vector.h"
+	"SensorRecords.h"
+	"Vector.h"
+	<iostream>
+
+1687915478 source:c:\users\icjh\desktop\ict0362330 pt-mur bit - 001\testwindspeed.cpp
+	<iostream>
+	"WindSpeed.h"
+	<string>
+
+1689563098 source:c:\users\icjh\desktop\ict 283 _assignment\ict 283 _assignment _ivan_chong _ ict0362330\date.cpp
+	"Date.h"
+
+1689563098 c:\users\icjh\desktop\ict 283 _assignment\ict 283 _assignment _ivan_chong _ ict0362330\date.h
+	<iostream>
+	<string>
+
+1689570461 source:c:\users\icjh\desktop\ict 283 _assignment\ict 283 _assignment _ivan_chong _ ict0362330\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"Date.h"
+	"Time.h"
+	"WindSpeed.h"
+	"Temperature.h"
+	"SolarRadiation.h"
+	"SensorRecords.h"
+	"Vector.h"
+	<sstream>
+	<cmath>
+	<iomanip>
+
+1689563098 c:\users\icjh\desktop\ict 283 _assignment\ict 283 _assignment _ivan_chong _ ict0362330\time.h
+	<iostream>
+	<string>
+
+1689563098 c:\users\icjh\desktop\ict 283 _assignment\ict 283 _assignment _ivan_chong _ ict0362330\windspeed.h
+	<iostream>
+
+1689563098 c:\users\icjh\desktop\ict 283 _assignment\ict 283 _assignment _ivan_chong _ ict0362330\temperature.h
+	<iostream>
+
+1689563098 c:\users\icjh\desktop\ict 283 _assignment\ict 283 _assignment _ivan_chong _ ict0362330\solarradiation.h
+	<iostream>
+	<string>
+
+1689563098 c:\users\icjh\desktop\ict 283 _assignment\ict 283 _assignment _ivan_chong _ ict0362330\sensorrecords.h
+	"Time.h"
+	"Date.h"
+	"Temperature.h"
+	"SolarRadiation.h"
+	"WindSpeed.h"
+	"Vector.h"
+	<iostream>
+	<string>
+
+1689563098 c:\users\icjh\desktop\ict 283 _assignment\ict 283 _assignment _ivan_chong _ ict0362330\vector.h
+
+1689563098 source:c:\users\icjh\desktop\ict 283 _assignment\ict 283 _assignment _ivan_chong _ ict0362330\sensorrecords.cpp
+	"SensorRecords.h"
+
+1689563098 source:c:\users\icjh\desktop\ict 283 _assignment\ict 283 _assignment _ivan_chong _ ict0362330\solarradiation.cpp
+	"SolarRadiation.h"
+
+1689563098 source:c:\users\icjh\desktop\ict 283 _assignment\ict 283 _assignment _ivan_chong _ ict0362330\temperature.cpp
+	"Temperature.h"
+
+1689563098 source:c:\users\icjh\desktop\ict 283 _assignment\ict 283 _assignment _ivan_chong _ ict0362330\time.cpp
+	"Time.h"
+
+1689563098 source:c:\users\icjh\desktop\ict 283 _assignment\ict 283 _assignment _ivan_chong _ ict0362330\windspeed.cpp
+	"WindSpeed.h"
+
+1690275621 source:c:\users\icjh\desktop\ict 283 _assignment _ivan_chong _ ict0362330\date.cpp
+	"Date.h"
+
+1690193429 c:\users\icjh\desktop\ict 283 _assignment _ivan_chong _ ict0362330\date.h
+	<iostream>
+	<string>
+
+1690809955 source:c:\users\icjh\desktop\ict 283 _assignment _ivan_chong _ ict0362330\main.cpp
+	"Operations.h"
+	"FilteredDatabase.h"
+	"SensorRecords.h"
+
+1690699300 c:\users\icjh\desktop\ict 283 _assignment _ivan_chong _ ict0362330\time.h
+	<iostream>
+	<string>
+
+1689563098 c:\users\icjh\desktop\ict 283 _assignment _ivan_chong _ ict0362330\windspeed.h
+	<iostream>
+
+1689563098 c:\users\icjh\desktop\ict 283 _assignment _ivan_chong _ ict0362330\temperature.h
+	<iostream>
+
+1689563098 c:\users\icjh\desktop\ict 283 _assignment _ivan_chong _ ict0362330\solarradiation.h
+	<iostream>
+	<string>
+
+1690811947 c:\users\icjh\desktop\ict 283 _assignment _ivan_chong _ ict0362330\sensorrecords.h
+	"Time.h"
+	"Date.h"
+	"Temperature.h"
+	"SolarRadiation.h"
+	"WindSpeed.h"
+	<iostream>
+	<string>
+
+1690800926 c:\users\icjh\desktop\ict 283 _assignment _ivan_chong _ ict0362330\vector.h
+
+1690759768 source:c:\users\icjh\desktop\ict 283 _assignment _ivan_chong _ ict0362330\sensorrecords.cpp
+	"SensorRecords.h"
+
+1689563098 source:c:\users\icjh\desktop\ict 283 _assignment _ivan_chong _ ict0362330\solarradiation.cpp
+	"SolarRadiation.h"
+
+1689563098 source:c:\users\icjh\desktop\ict 283 _assignment _ivan_chong _ ict0362330\temperature.cpp
+	"Temperature.h"
+
+1690699348 source:c:\users\icjh\desktop\ict 283 _assignment _ivan_chong _ ict0362330\time.cpp
+	"Time.h"
+
+1689563098 source:c:\users\icjh\desktop\ict 283 _assignment _ivan_chong _ ict0362330\windspeed.cpp
+	"WindSpeed.h"
+
+1690281559 source:c:\users\icjh\desktop\ict 283 _assignment _ivan_chong _ ict0362330\testintbst.cpp
+	<iostream>
+	<string>
+	"Bst.h"
+	<fstream>
+
+1690095397 c:\users\icjh\desktop\ict 283 _assignment _ivan_chong _ ict0362330\intbst.h
+	<iostream>
+
+1690203091 c:\users\icjh\desktop\ict 283 _assignment _ivan_chong _ ict0362330\bst.h
+	<iostream>
+
+1690167349 source:c:\users\icjh\desktop\ict 283 _assignment _ivan_chong _ ict0362330\testdate.cpp
+	"Date.h"
+	<iostream>
+
+1689563098 source:c:\users\icjh\desktop\ict 283 _assignment _ivan_chong _ ict0362330\testmain.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"Date.h"
+	"Time.h"
+	"WindSpeed.h"
+	"Temperature.h"
+	"SolarRadiation.h"
+	"SensorRecords.h"
+	"Menu.h"
+	"Vector.h"
+	<sstream>
+	<cmath>
+	<iomanip>
+
+1689563098 c:\users\icjh\desktop\ict 283 _assignment _ivan_chong _ ict0362330\menu.h
+	"vector.h"
+	"SensorRecords.h"
+	"Vector.h"
+	<iostream>
+
+1690197831 source:c:\users\icjh\desktop\ict 283 _assignment _ivan_chong _ ict0362330\testdatetree.cpp
+	<iostream>
+	"Bst.h"
+	"Date.h"
+	<fstream>
+	<sstream>
+
+1690201950 source:c:\users\icjh\desktop\ict 283 _assignment _ivan_chong _ ict0362330\testdatetreetxt.cpp
+	"Bst.h"
+	"Date.h"
+	<fstream>
+	<sstream>
+	<iostream>
+
+1690362228 source:c:\users\icjh\desktop\ict 283 _assignment _ivan_chong _ ict0362330\testmap.cpp
+	<iostream>
+	"Date.h"
+	"Bst.h"
+	<unordered_map>
+	<string>
+
+1690377172 source:c:\users\icjh\desktop\ict 283 _assignment _ivan_chong _ ict0362330\testbst.cpp
+	<iostream>
+	"BSTx.h"
+
+1690812479 c:\users\icjh\desktop\ict 283 _assignment _ivan_chong _ ict0362330\bstx.h
+	<iostream>
+
+1690275621 source:c:\users\icjh\desktop\restructure\date.cpp
+	"Date.h"
+
+1690193429 c:\users\icjh\desktop\restructure\date.h
+	<iostream>
+	<string>
+
+1690420105 source:c:\users\icjh\desktop\restructure\testbst.cpp
+	"Date.h"
+	<fstream>
+	<sstream>
+	<iostream>
+	"Bstx.h"
+
+1690457229 c:\users\icjh\desktop\restructure\bstx.h
+
+1690431763 source:c:\users\icjh\desktop\restructure\testdatetreetxt.cpp
+	"Date.h"
+	"Bstx.h"
+	<fstream>
+	<sstream>
+	<iostream>
+
+1690203091 c:\users\icjh\desktop\restructure\bst.h
+	<iostream>
+
+1690457168 source:c:\users\icjh\desktop\restructure\testdatetree.cpp
+	<iostream>
+	"Bstx.h"
+	"Date.h"
+	<fstream>
+	<sstream>
+
+1690424958 source:c:\users\icjh\desktop\restructure\testintbst.cpp
+	<iostream>
+	<string>
+	"Bstx.h"
+	<fstream>
+
+1690275621 source:c:\users\icjh\desktop\new assignment\date.cpp
+	"Date.h"
+
+1690193429 c:\users\icjh\desktop\new assignment\date.h
+	<iostream>
+	<string>
+
+1690464338 source:c:\users\icjh\desktop\new assignment\testdatetree.cpp
+	<iostream>
+	"Bstx.h"
+	"Date.h"
+	<fstream>
+	<sstream>
+
+1690768729 c:\users\icjh\desktop\new assignment\bstx.h
+	<iostream>
+
+1690464600 source:c:\users\icjh\desktop\new assignment\testdatetreetxt.cpp
+	"Date.h"
+	"Bstx.h"
+	<fstream>
+	<sstream>
+	<iostream>
+
+1690464911 source:c:\users\icjh\desktop\new assignment\testbst.cpp
+	"Date.h"
+	<fstream>
+	<sstream>
+	<iostream>
+	"Bstx.h"
+
+1690517418 source:c:\users\icjh\desktop\new assignment\testintbst.cpp
+	<iostream>
+	<string>
+	"Bstx.h"
+	<fstream>
+
+1690804959 source:c:\users\icjh\desktop\new assignment\main.cpp
+	"Operations.h"
+	"FilteredDatabase.h"
+	"SensorRecords.h"
+
+1690699300 c:\users\icjh\desktop\new assignment\time.h
+	<iostream>
+	<string>
+
+1689563098 c:\users\icjh\desktop\new assignment\windspeed.h
+	<iostream>
+
+1689563098 c:\users\icjh\desktop\new assignment\temperature.h
+	<iostream>
+
+1689563098 c:\users\icjh\desktop\new assignment\solarradiation.h
+	<iostream>
+	<string>
+
+1690759768 c:\users\icjh\desktop\new assignment\sensorrecords.h
+	"Time.h"
+	"Date.h"
+	"Temperature.h"
+	"SolarRadiation.h"
+	"WindSpeed.h"
+	"Vector.h"
+	<iostream>
+	<string>
+
+1690800926 c:\users\icjh\desktop\new assignment\vector.h
+
+1690759768 source:c:\users\icjh\desktop\new assignment\sensorrecords.cpp
+	"SensorRecords.h"
+
+1689563098 source:c:\users\icjh\desktop\new assignment\solarradiation.cpp
+	"SolarRadiation.h"
+
+1689563098 source:c:\users\icjh\desktop\new assignment\temperature.cpp
+	"Temperature.h"
+
+1690699348 source:c:\users\icjh\desktop\new assignment\time.cpp
+	"Time.h"
+
+1689563098 source:c:\users\icjh\desktop\new assignment\windspeed.cpp
+	"WindSpeed.h"
+
+1690805671 source:c:\users\icjh\desktop\new assignment\filtereddatabase.cpp
+	"FilteredDatabase.h"
+
+1690804959 c:\users\icjh\desktop\new assignment\filtereddatabase.h
+	"Vector.h"
+	"SensorRecords.h"
+	<fstream>
+	<sstream>
+	<map>
+	"BSTx.h"
+
+1690804959 source:c:\users\icjh\desktop\new assignment\operations.cpp
+	"Operations.h"
+
+1690805833 c:\users\icjh\desktop\new assignment\operations.h
+	"FilteredDatabase.h"
+	"SensorRecords.h"
+	"Date.h"
+	"Time.h"
+	"WindSpeed.h"
+	"Temperature.h"
+	"SolarRadiation.h"
+	"SensorRecords.h"
+	"Vector.h"
+	"cmath"
+	<iomanip>
+	<iostream>
+	<fstream>
+	<string>
+
+1690530282 source:c:\users\icjh\desktop\new assignment\testoperations.cpp
+	<iostream>
+	"FilteredDatabase.h"
+	"Date.h"
+	"Time.h"
+	"WindSpeed.h"
+	"Temperature.h"
+	"SolarRadiation.h"
+	"SensorRecords.h"
+	"Operations.h"
+
+1690646512 source:c:\users\icjh\desktop\new assignment\testfiltereddatabase.cpp
+	<iostream>
+	"FilteredDatabase.h"
+	"Date.h"
+	"Time.h"
+	"WindSpeed.h"
+	"Temperature.h"
+	"SolarRadiation.h"
+	"SensorRecords.h"
+
+1690811947 c:\users\icjh\desktop\ict 283 _assignment _ivan_chong _ ict0362330\operations.h
+	"FilteredDatabase.h"
+	"SensorRecords.h"
+	"Date.h"
+	"Time.h"
+	"WindSpeed.h"
+	"Temperature.h"
+	"SolarRadiation.h"
+	"SensorRecords.h"
+	"Vector.h"
+	"cmath"
+	<iomanip>
+	<iostream>
+	<fstream>
+	<string>
+
+1690814559 c:\users\icjh\desktop\ict 283 _assignment _ivan_chong _ ict0362330\filtereddatabase.h
+	"Vector.h"
+	"SensorRecords.h"
+	<fstream>
+	<sstream>
+	<map>
+	"BSTx.h"
+
+1690814427 source:c:\users\icjh\desktop\ict 283 _assignment _ivan_chong _ ict0362330\filtereddatabase.cpp
+	"FilteredDatabase.h"
+
+1690810002 source:c:\users\icjh\desktop\ict 283 _assignment _ivan_chong _ ict0362330\operations.cpp
+	"Operations.h"
+
+1690275622 source:c:\learning\ict283_datastructure\assignments\ict 283 _assignment _ivan_chong _ ict0362330\date.cpp
+	"Date.h"
+
+1690193430 c:\learning\ict283_datastructure\assignments\ict 283 _assignment _ivan_chong _ ict0362330\date.h
+	<iostream>
+	<string>
+
+1690814428 source:c:\learning\ict283_datastructure\assignments\ict 283 _assignment _ivan_chong _ ict0362330\filtereddatabase.cpp
+	"FilteredDatabase.h"
+
+1690814560 c:\learning\ict283_datastructure\assignments\ict 283 _assignment _ivan_chong _ ict0362330\filtereddatabase.h
+	"Vector.h"
+	"SensorRecords.h"
+	<fstream>
+	<sstream>
+	<map>
+	"BSTx.h"
+
+1690800928 c:\learning\ict283_datastructure\assignments\ict 283 _assignment _ivan_chong _ ict0362330\vector.h
+
+1690811948 c:\learning\ict283_datastructure\assignments\ict 283 _assignment _ivan_chong _ ict0362330\sensorrecords.h
+	"Time.h"
+	"Date.h"
+	"Temperature.h"
+	"SolarRadiation.h"
+	"WindSpeed.h"
+	<iostream>
+	<string>
+
+1690699302 c:\learning\ict283_datastructure\assignments\ict 283 _assignment _ivan_chong _ ict0362330\time.h
+	<iostream>
+	<string>
+
+1689563100 c:\learning\ict283_datastructure\assignments\ict 283 _assignment _ivan_chong _ ict0362330\temperature.h
+	<iostream>
+
+1689563100 c:\learning\ict283_datastructure\assignments\ict 283 _assignment _ivan_chong _ ict0362330\solarradiation.h
+	<iostream>
+	<string>
+
+1689563100 c:\learning\ict283_datastructure\assignments\ict 283 _assignment _ivan_chong _ ict0362330\windspeed.h
+	<iostream>
+
+1690812480 c:\learning\ict283_datastructure\assignments\ict 283 _assignment _ivan_chong _ ict0362330\bstx.h
+	<iostream>
+
+1690809956 source:c:\learning\ict283_datastructure\assignments\ict 283 _assignment _ivan_chong _ ict0362330\main.cpp
+	"Operations.h"
+	"FilteredDatabase.h"
+	"SensorRecords.h"
+
+1690811948 c:\learning\ict283_datastructure\assignments\ict 283 _assignment _ivan_chong _ ict0362330\operations.h
+	"FilteredDatabase.h"
+	"SensorRecords.h"
+	"Date.h"
+	"Time.h"
+	"WindSpeed.h"
+	"Temperature.h"
+	"SolarRadiation.h"
+	"SensorRecords.h"
+	"Vector.h"
+	"cmath"
+	<iomanip>
+	<iostream>
+	<fstream>
+	<string>
+
+1690810004 source:c:\learning\ict283_datastructure\assignments\ict 283 _assignment _ivan_chong _ ict0362330\operations.cpp
+	"Operations.h"
+
+1690759770 source:c:\learning\ict283_datastructure\assignments\ict 283 _assignment _ivan_chong _ ict0362330\sensorrecords.cpp
+	"SensorRecords.h"
+
+1689563100 source:c:\learning\ict283_datastructure\assignments\ict 283 _assignment _ivan_chong _ ict0362330\solarradiation.cpp
+	"SolarRadiation.h"
+
+1689563100 source:c:\learning\ict283_datastructure\assignments\ict 283 _assignment _ivan_chong _ ict0362330\temperature.cpp
+	"Temperature.h"
+
+1690699350 source:c:\learning\ict283_datastructure\assignments\ict 283 _assignment _ivan_chong _ ict0362330\time.cpp
+	"Time.h"
+
+1689563100 source:c:\learning\ict283_datastructure\assignments\ict 283 _assignment _ivan_chong _ ict0362330\windspeed.cpp
+	"WindSpeed.h"
+

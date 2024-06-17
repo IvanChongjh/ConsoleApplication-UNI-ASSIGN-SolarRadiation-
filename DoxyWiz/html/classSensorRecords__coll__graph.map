@@ -1,0 +1,8 @@
+<map id="SensorRecords" name="SensorRecords">
+<area shape="rect" id="node1" title=" " alt="" coords="315,277,471,501"/>
+<area shape="rect" id="node2" href="$classWindSpeed.html" title=" " alt="" coords="5,49,136,171"/>
+<area shape="rect" id="node3" href="$classTemperature.html" title=" " alt="" coords="161,49,295,171"/>
+<area shape="rect" id="node4" href="$classSolarRadiation.html" title=" " alt="" coords="320,49,467,171"/>
+<area shape="rect" id="node5" href="$classTime.html" title=" " alt="" coords="491,49,581,171"/>
+<area shape="rect" id="node6" href="$classDate.html" title=" " alt="" coords="605,5,704,215"/>
+</map>

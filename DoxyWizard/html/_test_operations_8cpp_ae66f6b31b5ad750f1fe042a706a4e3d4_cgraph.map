@@ -1,0 +1,17 @@
+<map id="main" name="main">
+<area shape="rect" id="node1" title=" " alt="" coords="5,245,56,272"/>
+<area shape="rect" id="node2" href="$class_vector.html#a48745990bf172b0f812f47f03f5fa866" title=" " alt="" coords="162,5,241,32"/>
+<area shape="rect" id="node3" href="$class_sensor_records.html#ab11aa2e800be7257fcc748c6670f27aa" title=" " alt="" coords="118,56,285,83"/>
+<area shape="rect" id="node4" href="$class_date.html#aac200c5de489e9152f56c6630df8152e" title=" " alt="" coords="151,107,251,133"/>
+<area shape="rect" id="node5" href="$class_date.html#ab587288456d08441934ab7858fd6ded7" title=" " alt="" coords="145,157,258,184"/>
+<area shape="rect" id="node6" href="$class_solar_radiation.html#a7708bb11831763f4bb1e6842cba32602" title=" " alt="" coords="119,209,283,250"/>
+<area shape="rect" id="node8" href="$class_temperature.html#a1c5b26608d21cd30757259c8f1d70879" title=" " alt="" coords="104,275,299,301"/>
+<area shape="rect" id="node10" href="$class_wind_speed.html#a99b8e209c818142273f0b051e56d788d" title=" " alt="" coords="109,325,293,352"/>
+<area shape="rect" id="node12" href="$class_date.html#ae2c42f7372babbebdc65b3de4f7cecd0" title=" " alt="" coords="149,376,253,403"/>
+<area shape="rect" id="node13" href="$class_operations.html#a84e3350d5826779c33a3196d09f94dc5" title="THIS CLASS IS MEANT FOR OPERATION USAGE, USER INTERACTIONS / CALCULATIONS." alt="" coords="116,427,287,453"/>
+<area shape="rect" id="node15" href="$class_operations.html#ad4d41352a92bb71d031477bf2ea3386e" title="syc filtered data" alt="" coords="110,477,293,504"/>
+<area shape="rect" id="node7" href="$class_solar_radiation.html#a60910531616a3b8f15e1d974dc6be763" title=" " alt="" coords="349,216,548,243"/>
+<area shape="rect" id="node9" href="$class_temperature.html#ab8f4f9e793a8e4f35eed33c240bbe278" title=" " alt="" coords="361,275,536,301"/>
+<area shape="rect" id="node11" href="$class_wind_speed.html#a333639e0d29a9f64b016ca28723f7138" title=" " alt="" coords="367,325,531,352"/>
+<area shape="rect" id="node14" href="$class_filtered_database.html#a0bccc7a00ba0278a131db02a87a55e89" title=" " alt="" coords="347,427,551,453"/>
+</map>

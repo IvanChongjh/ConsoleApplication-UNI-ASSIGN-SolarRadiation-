@@ -1,0 +1,11 @@
+<map id="Operations" name="Operations">
+<area shape="rect" id="node1" title=" " alt="" coords="175,1012,383,1295"/>
+<area shape="rect" id="node2" href="$class_vector.html" title=" " alt="" coords="155,623,283,935"/>
+<area shape="rect" id="node3" href="$class_vector.html" title=" " alt="" coords="307,630,480,927"/>
+<area shape="rect" id="node4" href="$class_sensor_records.html" title=" " alt="" coords="320,336,467,560"/>
+<area shape="rect" id="node5" href="$class_wind_speed.html" title=" " alt="" coords="5,71,136,207"/>
+<area shape="rect" id="node6" href="$class_temperature.html" title=" " alt="" coords="161,71,295,207"/>
+<area shape="rect" id="node7" href="$class_solar_radiation.html" title=" " alt="" coords="320,71,467,207"/>
+<area shape="rect" id="node8" href="$class_time.html" title=" " alt="" coords="491,49,600,229"/>
+<area shape="rect" id="node9" href="$class_date.html" title=" " alt="" coords="625,5,730,273"/>
+</map>

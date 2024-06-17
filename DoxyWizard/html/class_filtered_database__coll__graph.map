@@ -1,0 +1,12 @@
+<map id="FilteredDatabase" name="FilteredDatabase">
+<area shape="rect" id="node1" title="DECLARTION OF DATA STRUCTURE HERE." alt="" coords="243,1376,467,1527"/>
+<area shape="rect" id="node2" href="$class_bstx.html" title=" " alt="" coords="196,1045,359,1313"/>
+<area shape="rect" id="node3" href="$structnode_type.html" title=" " alt="" coords="119,623,310,700"/>
+<area shape="rect" id="node4" href="$class_sensor_records.html" title=" " alt="" coords="320,336,467,560"/>
+<area shape="rect" id="node10" href="$class_vector.html" title=" " alt="" coords="349,724,523,1021"/>
+<area shape="rect" id="node5" href="$class_wind_speed.html" title=" " alt="" coords="5,71,136,207"/>
+<area shape="rect" id="node6" href="$class_temperature.html" title=" " alt="" coords="161,71,295,207"/>
+<area shape="rect" id="node7" href="$class_solar_radiation.html" title=" " alt="" coords="320,71,467,207"/>
+<area shape="rect" id="node8" href="$class_time.html" title=" " alt="" coords="491,49,600,229"/>
+<area shape="rect" id="node9" href="$class_date.html" title=" " alt="" coords="625,5,730,273"/>
+</map>

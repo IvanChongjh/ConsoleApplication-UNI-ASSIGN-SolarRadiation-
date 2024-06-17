@@ -1,0 +1,14 @@
+<map id="LoadData" name="LoadData">
+<area shape="rect" id="node1" title=" " alt="" coords="5,195,83,221"/>
+<area shape="rect" id="node2" href="$classVector.html#a7ad1caf381a0a612bf4befbb272fdda2" title=" " alt="" coords="183,5,273,32"/>
+<area shape="rect" id="node3" href="$classDate.html#acd372141cf47ed76fd817e3a822ec0c1" title=" " alt="" coords="178,56,278,83"/>
+<area shape="rect" id="node4" href="$classDate.html#ae9c8fd97f5bf2b895fde7379610da776" title=" " alt="" coords="171,107,285,133"/>
+<area shape="rect" id="node5" href="$classSolarRadiation.html#ad16210782728a8ea3c656d0663b6fe38" title=" " alt="" coords="146,158,310,199"/>
+<area shape="rect" id="node7" href="$classTemperature.html#a23deca9cb2d9bbfab46799a670dd05bf" title=" " alt="" coords="131,224,325,251"/>
+<area shape="rect" id="node9" href="$classTime.html#ac694c179a49d586bbfdcf4eddc95ca17" title=" " alt="" coords="175,275,281,301"/>
+<area shape="rect" id="node10" href="$classWindSpeed.html#ad9419ce4d2637d65728e3bdbc7997080" title=" " alt="" coords="136,325,320,352"/>
+<area shape="rect" id="node12" href="$classDate.html#a32d25fcb6a04d2313e5f1c1bfe392cd0" title=" " alt="" coords="176,376,280,403"/>
+<area shape="rect" id="node6" href="$classSolarRadiation.html#acee6106c874ff4d3d09dff38e6bf0aa1" title=" " alt="" coords="373,165,572,192"/>
+<area shape="rect" id="node8" href="$classTemperature.html#aaccae841732389a407e40ae10eb4a97c" title=" " alt="" coords="385,224,560,251"/>
+<area shape="rect" id="node11" href="$classWindSpeed.html#a477558273749e88531cbbbfaaa693b00" title=" " alt="" coords="391,325,555,352"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="Menu" name="Menu">
+<area shape="rect" id="node1" title=" " alt="" coords="5,223,60,250"/>
+<area shape="rect" id="node2" href="$TestMain_8cpp.html#a77f65df530db2bb449c9ae32ab33a2ff" title=" " alt="" coords="108,122,289,149"/>
+<area shape="rect" id="node7" href="$TestMain_8cpp.html#ab4c765cbd9499f92b9805557a33756c8" title=" " alt="" coords="111,223,287,250"/>
+<area shape="rect" id="node9" href="$TestMain_8cpp.html#ade43321cec58d96e38e5c52e6e85ea6e" title=" " alt="" coords="119,71,278,98"/>
+<area shape="rect" id="node11" href="$TestMain_8cpp.html#a3be46fc05b06e04c39bd2d1c4c5b616a" title=" " alt="" coords="129,173,268,199"/>
+<area shape="rect" id="node12" href="$TestMain_8cpp.html#a41ef85f50b4fd044e9fe3227819f5b94" title=" " alt="" coords="132,274,265,301"/>
+<area shape="rect" id="node13" href="$TestMain_8cpp.html#a1bf1289f45feb7e9ce601f91cbed7d69" title=" " alt="" coords="145,325,252,351"/>
+<area shape="rect" id="node14" href="$TestMain_8cpp.html#a632368ccd119d49b4fa1dc265ed984d4" title=" " alt="" coords="158,375,239,402"/>
+<area shape="rect" id="node3" href="$classDate.html#af0cb3aa2986a250f4584fa43b133e92f" title=" " alt="" coords="377,223,492,250"/>
+<area shape="rect" id="node4" href="$classWindSpeed.html#a2a476893979233edbdb6a4f1a99e6eb6" title=" " alt="" coords="342,71,527,98"/>
+<area shape="rect" id="node5" href="$classDate.html#a2db2a6f455cbf2cc0011da9326edae5f" title=" " alt="" coords="382,122,487,149"/>
+<area shape="rect" id="node6" href="$classVector.html#af4b57d21919c42d55af03391f91a1c08" title=" " alt="" coords="389,173,481,199"/>
+<area shape="rect" id="node8" href="$classTemperature.html#a7c0d342f5f943748597aa28c08c8081e" title=" " alt="" coords="337,274,532,301"/>
+<area shape="rect" id="node10" href="$classSolarRadiation.html#af0e06701e75d85b18ba7573da600d1f5" title=" " alt="" coords="352,5,517,47"/>
+</map>

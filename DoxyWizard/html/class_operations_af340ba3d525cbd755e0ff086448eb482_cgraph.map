@@ -1,0 +1,14 @@
+<map id="Operations::AverageSolarRadiation" name="Operations::AverageSolarRadiation">
+<area shape="rect" id="node1" title=" " alt="" coords="5,246,175,287"/>
+<area shape="rect" id="node2" href="$class_operations.html#a660e18ae6d6280f55e61e43295fb6667" title="Collect data from bst and populate to static variable." alt="" coords="223,144,413,171"/>
+<area shape="rect" id="node9" href="$class_date.html#af2dcc6ce51dbb2bd798499a149bdffb7" title=" " alt="" coords="261,195,375,221"/>
+<area shape="rect" id="node10" href="$class_solar_radiation.html#ae4a11c12f01cca079430f6ecfae89abb" title=" " alt="" coords="235,246,401,287"/>
+<area shape="rect" id="node11" href="$class_date.html#ad79ce504482f317ddcfdc4ecad77671f" title=" " alt="" coords="265,312,371,339"/>
+<area shape="rect" id="node12" href="$class_vector.html#ae42ac066dad3b8fbb96fd4539900ad98" title=" " alt="" coords="272,363,364,389"/>
+<area shape="rect" id="node3" href="$class_vector.html#ae570e2c64a453d3687ef78f66f851225" title=" " alt="" coords="527,5,617,32"/>
+<area shape="rect" id="node4" href="$class_sensor_records.html#ab1202a247b9e6c5ae9724ff98e2620a3" title=" " alt="" coords="484,56,660,83"/>
+<area shape="rect" id="node5" href="$class_sensor_records.html#a10a6544f319602c64004669885b65ab0" title=" " alt="" coords="483,107,661,149"/>
+<area shape="rect" id="node6" href="$class_sensor_records.html#a71b16bf37e3f42f73259d20c4c135888" title=" " alt="" coords="461,173,683,200"/>
+<area shape="rect" id="node7" href="$class_sensor_records.html#a6f91a82038d2939e061641439c5e9b8c" title=" " alt="" coords="483,224,661,251"/>
+<area shape="rect" id="node8" href="$class_sensor_records.html#afb3a290dca1cad8e1d4ef4bcd9f2d9e4" title=" " alt="" coords="464,275,680,301"/>
+</map>

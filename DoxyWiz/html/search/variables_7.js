@@ -1,0 +1,4 @@
+var searchData=
+[
+  ['november_243',['November',['../_wind_temp_solar_8txt.html#a4af23ae012dca778b71e9f09e12c094d',1,'WindTempSolar.txt']]]
+];
